@@ -1,8 +1,8 @@
-baseurl: " "
+baseurl: ''
 
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'rito.marketing'
 
 google_analytics_id: null
 homepage:
